@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in metagenomics, and anything related to astrobiology and space exploration!
 - 📫 How to reach me: My instagram handle is benjaminlukeandrews 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I play the tenor trombone and am a mega-fan of the Russian organic chemist/composer/all-round-amazing-human-being Alexander Borodin.
+- ⚡ Fun fact: I play the trombone and am a mega-fan of the Russian organic chemist/composer/all-round-amazing-human-being Alexander Borodin.
 
 <!---
 benjamin-andrews/benjamin-andrews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
